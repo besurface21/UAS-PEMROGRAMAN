@@ -1,0 +1,14 @@
+C:\Users\H A B Z\Documents\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\H A B Z\Documents\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\H A B Z\Documents\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\H A B Z\Documents\Abstraction\Abstraction\obj\Debug\Abstraction.csprojAssemblyReference.cache
+C:\Users\H A B Z\Documents\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\H A B Z\Documents\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\H A B Z\Documents\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
+D:\KULIAH\pemrog kontol\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+D:\KULIAH\pemrog kontol\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+D:\KULIAH\pemrog kontol\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+D:\KULIAH\pemrog kontol\Abstraction\Abstraction\obj\Debug\Abstraction.csprojAssemblyReference.cache
+D:\KULIAH\pemrog kontol\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+D:\KULIAH\pemrog kontol\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+D:\KULIAH\pemrog kontol\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
